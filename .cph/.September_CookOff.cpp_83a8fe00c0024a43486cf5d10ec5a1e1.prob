@@ -1,0 +1,1 @@
+{"name":"Local: September_CookOff","url":"g:\\codechef\\September_CookOff.cpp","tests":[{"id":1632067341656,"input":"3\n2\n5 13\n3\n8 4 20\n5\n2 9 12 3 8","output":"YES\n3 9\n13 17\nYES\n18 5\n10 1\n1 16\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codechef\\September_CookOff.cpp","group":"local","local":true}

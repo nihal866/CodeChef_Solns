@@ -1,0 +1,1 @@
+{"name":"Local: Fire_Escape_Routes","url":"g:\\codechef\\Fire_Escape_Routes.cpp","tests":[{"id":1635680087947,"input":"3\n4 2\n1 2\n2 3\n5 3\n1 2\n2 3\n1 3\n6 3\n1 2\n3 4\n5 6","output":"2 3\n3 3\n3 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codechef\\Fire_Escape_Routes.cpp","group":"local","local":true}

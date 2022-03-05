@@ -1,0 +1,1 @@
+{"name":"Local: Starters-12","url":"g:\\codechef\\Starters-12.cpp","tests":[{"id":1632321626458,"input":"3\n5 6 2 5\n4 7 5 6\n7 8 6 5","output":"18\n33\n36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codechef\\Starters-12.cpp","group":"local","local":true}
